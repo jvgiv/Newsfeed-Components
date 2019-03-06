@@ -77,7 +77,25 @@
   height: 50px;
   overflow: hidden;
   box-shadow: 2px 2px 2px lightgrey;
+  /* animation: pulse 15s infinite; */
 }
+/* 
+.anim {
+  animation: pulse 15s infinite;
+} */
+
+/* @keyframes pulse {
+  0% {
+    background-color: #A4C2F4;
+  }
+  50% {
+    background-color: #C6C9CD;
+  }
+  100% {
+    background-color: #A4C2F4;
+}  */
+
+
 .article h2 {
   font-size: 28px;
   padding: 0;
